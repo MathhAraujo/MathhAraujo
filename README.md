@@ -1,9 +1,10 @@
 # Sobre mim
 
 - Estudando Ciência da Computação na CESAR School
+- Atualmente aprendendo desenvolvimento web back end e desenvolvimento de jogos
 
 
-## Tecnologias que utilizo atualmente
+## Tecnologias que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
