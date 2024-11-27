@@ -2,6 +2,7 @@
 
 - Estudando Ciência da Computação na CESAR School
 - Atualmente aprendendo desenvolvimento web back end e desenvolvimento de jogos
+- Procurando sempre melhorar
 
 
 ## Tecnologias que utilizo
