@@ -1,7 +1,7 @@
 # Sobre mim
 
 - Estudando Ciência da Computação na CESAR School
-- Atualmente estudando infraesturura e manutenção de servidores
+- Atualmente estudando desenvolvimento backend e cybersegurança
 
 
 ## Tecnologias que utilizo
