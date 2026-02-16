@@ -16,7 +16,4 @@ Currently seeking Internship & Junior opportunities where I can contribute as a 
 - Backend architecture & scalable systems  
 - Secure API development  
 - Data Engineering & MLOps  
-- Cybersecurity fundamentals  
-
-### Contact
-- LinkedIn: https://www.linkedin.com/in/mattharaujo/
+- Cybersecurity fundamentals
