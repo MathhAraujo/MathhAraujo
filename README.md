@@ -4,7 +4,7 @@ Java Backend Developer in training (CS @ CESAR School), focused on building REST
 
 I have experience developing complete backend services, working with authentication (JWT), relational databases, Dockerized environments, and system integration. I’m particularly interested in scalable backend architectures, secure API design, and data-driven systems.
 
-Currently seeking Internship & Junior opportunities where I can contribute as a backend developer and continue growing in Java, system design, and backend infrastructure.
+Currently seeking Internship & Junior opportunities where I can contribute as a backend developer and continue growing.
 
 ### Tech Stack
 **Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate  
