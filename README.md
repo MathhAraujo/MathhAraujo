@@ -1,6 +1,6 @@
 ## Hi, I’m Matheus 👋
 
-Java Backend Developer in training (CS @ CESAR School), focused on building REST APIs, database-driven systems, and secure backend applications using Spring Boot.
+Java Backend Developer (CS @ CESAR School), focused on building REST APIs, database-driven systems, and secure backend applications using Spring Boot.
 
 I have experience developing complete backend services, working with authentication (JWT), relational databases, Dockerized environments, and system integration. I’m particularly interested in scalable backend architectures, secure API design, and data-driven systems.
 
