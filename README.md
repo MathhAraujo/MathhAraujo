@@ -1,3 +1,4 @@
+###About
 Java Backend Developer (CS @ CESAR School), focused on building REST APIs, database-driven systems, and secure backend applications using Spring Boot.
 
 ### Tech Stack
