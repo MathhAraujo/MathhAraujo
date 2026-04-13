@@ -12,7 +12,7 @@ matheus@github:~$ cat about.txt
 ```
 ```yaml
 name:       Matheus Araujo
-role:       Java Backend Developer
+role:       Backend Developer
 university: CESAR School (Computer Science)
 location:   Recife, PE - Brazil
 linkedin:   linkedin.com/in/mathharaujo
