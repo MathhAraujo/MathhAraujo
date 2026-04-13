@@ -81,7 +81,3 @@ matheus@github:~$ cat activity.log
 ```bash
 matheus@github:~$ echo "Thanks for visiting!" && exit
 ```
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MathhAraujo&color=00ff41&style=flat-square&label=visitors" alt="Profile views"/>
-</div>
