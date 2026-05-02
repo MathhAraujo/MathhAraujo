@@ -32,8 +32,8 @@ matheus@github:~$ open --connect
 matheus@github:~$ ls ./interests/
 ```
 ```
-backend-architecture/   scalable-systems/   secure-apis/
-ml-engineering/         mlops/              cybersecurity/
+backend-architecture/   scalable-systems/   cybersecurity/
+ml-engineering/         mlops/              
 ```
 
 ```bash
